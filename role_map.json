@@ -1,0 +1,117 @@
+{
+    "IDL": {
+        "prefix": "IDL",
+        "buildings": {
+            "Portland": {
+                "prefix": "PDX",
+                "roles": {
+                    "Design": "DSN",
+                    "Production": "PRD",
+                    "Client Service": "CS",
+                    "Business Development": "BD"
+                }
+            },
+            "Appleton": {
+                "prefix": "APT",
+                "roles": {
+                    "Accounting": "ACT",
+                    "Client Service": "CS",
+                    "Design": "DSN",
+                    "Production": "PRD",
+                    "Business Development": "BD"
+                }
+            },
+            "Boston": {
+                "prefix": "BOS",
+                "roles": {
+                    "Design": "DSN",
+                    "Production": "PRD",
+                    "Client Service": "CS",
+                    "Business Development": "BD"
+                }
+            },
+            "St. Louis": {
+                "prefix": "STL",
+                "roles": {
+                    "Design": "DSN",
+                    "Production": "PRD",
+                    "Client Service": "CS"
+                }
+            }
+        }
+    },
+    "SGK": {
+        "prefix": "SGK",
+        "buildings": {
+            "Walnut Studio": {
+                "prefix": "WN",
+                "roles": {
+                    "Design": "DSN",
+                    "Production": "PRD",
+                    "Client Service": "CS",
+                    "Business Development": "BD"
+                }
+            },
+            "Sherwin": {
+                "prefix": "SHW",
+                "roles": {
+                    "IT": "IT",
+                    "Accounting": "ACT",
+                    "Core": "CORE"
+                }
+            },
+            "Atlanta": {
+                "prefix": "ATL",
+                "roles": {
+                    "Color Specialist": "COL",
+                    "Client Service": "CS",
+                    "Production": "PRD",
+                    "Design": "DSN",
+                    "Business Development": "BD"
+                }
+            }
+        }
+    },
+    "Anthem": {
+        "prefix": "ANT",
+        "buildings": {
+            "Atlanta": {
+                "prefix": "ATL",
+                "roles": {
+                    "Design": "DSN",
+                    "Production": "PRD",
+                    "Client Service": "CS",
+                    "Business Development": "BD"
+                }
+            }
+        }
+    },
+    "Matthews": {
+        "prefix": "MAT",
+        "buildings": {
+            "North Shore": {
+                "prefix": "NSH",
+                "roles": {
+                    "IT": "IT",
+                    "Accounting": "ACT",
+                    "Business Development": "BD"
+                }
+            }
+        }
+    },
+    "Automation": {
+        "prefix": "AUT",
+        "buildings": {
+            "Portland": {
+                "prefix": "PDX",
+                "roles": {
+                    "Design": "DSN",
+                    "Production": "PRD",
+                    "Client Service": "CS",
+                    "Business Development": "BD"
+                    
+                }
+            }
+        }
+    }
+}
