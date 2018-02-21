@@ -11,5 +11,5 @@ com.company.installapplications.plist - LaunchDaemon created for InstallApplicat
 
 
 
-more documentation to follow
+more documentation to follow this is getting ugly and it's time for bed
 
