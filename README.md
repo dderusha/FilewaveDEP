@@ -5,6 +5,8 @@ FilewaveBootstrap.py is used to name the computer.  The user chooses their Locat
 
 bootstrap.json is used as a package manifest instructing InstallApplications what to download from our webserver.
 
+role_map.json Defines our locations, departments and roles chosen from the FilewaveBootstrap.py
+
 
 more documentation to follow
 
