@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Label</key>
-	<string>com.Company.installapplications</string>
+	<string>com.company.installapplications</string>
 	<key>ProgramArguments</key>
 	<array>
 		<string>/usr/bin/python</string>
