@@ -8,36 +8,21 @@
 	<array>
 		<string>/usr/bin/python</string>
 		<string>/Library/Application Support/installapplications/installapplications.py</string>
-		<string>--jsonurl</string>
-		<string>https://eitdesktoprepo.schawk.com/api/v3/projects/testbranch?filepath=InstallApplications/v2/bootstrap.json&private_token=NoTelling</string>
-		<string>--iapath</string>
-		<string>/Library/Application Support/installapplications</string>
-		<string>--laidentifier</string>
-		<string>com.company.installapplications</string>
-		<string>--ldidentifier</string>
-		<string>com.company.installapplications</string>
-		<string>--depnotify</string>
-		<string>DEPNotifySkipStatus</string>
-		<string>Command: MainText: Welcome to Company co. \n Please wait while your computer downloads all the software for your role.  Please click on the ? located on the right for more information about company sharepoint</string>
-		<string>Command: Image: /usr/local/sbin/company_resources/company_logo.png</string>
-		<!-- <string>Command: NotificationOn:</string> -->
-		<!-- <string>Command: Quit: Thank you for using MATW's Automation Engine. Enjoy your new Mac</string> -->
-		<string>Command: Help: https://company.sharepoint.com/sites/companyIntranet</string>
-		<string>Status: Check out company sharepoint while we download your build information…</string>
-
-		<!-- <string>Command: WindowStyle: ActivateOnStep</string> -->
-		<string>DEPNotifyPath: /Applications/Utilities/DEPNotify.app</string>
-		<string>DEPNotifyArguments: -filewave</string>
-		<!-- <string>DEPNotifyArguments: -munki -fullScreen</string> -->
-		<!-- <string>--reboot</string> -->
-		<!-- skips boostrap.json validation because we have the bootstrap in the .pkg -->
-		<!--<string>--skip-validation</string>-->
+		<string>--userscript</string>
 	</array>
-	<key>RunAtLoad</key>
-	<true/>
+	<key>KeepAlive</key>
+  <dict>
+     <key>PathState</key>
+     <dict>
+       <key>/var/tmp/installapplications/.userscript</key>
+       <true/>
+     </dict>
+  </dict>
+  <key>OnDemand</key>
+  <true/>
 	<key>StandardOutPath</key>
-	<string>/var/log/installapplications.log</string>
+	<string>/var/tmp/installapplications/installapplications.user.log</string>
 	<key>StandardErrorPath</key>
-	<string>/var/log/installapplications.log</string>
+	<string>/var/tmp/installapplications/installapplications.user.log</string>
 </dict>
 </plist>
