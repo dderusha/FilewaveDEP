@@ -7,6 +7,9 @@ bootstrap.json is used as a package manifest instructing InstallApplications wha
 
 role_map.json Defines our locations, departments and roles chosen from the FilewaveBootstrap.py
 
+com.company.installapplications.plist - LaunchDaemon created for InstallApplications
+
+
 
 more documentation to follow
 
