@@ -1,0 +1,66 @@
+{
+  "preflight": [],
+  "setupassistant": [
+    {
+      "file": "/Library/Application Support/installapplications/1-fwcld_log_dummy.pkg", 
+      "hash": "e6f2afa22979714c536233e3fe1751ba5118bd97aa806f5348ee4b2dac14a59f", 
+      "name": "1-fwcld_log_dummy.pkg", 
+      "packageid": "fwcldlogdummy", 
+      "type": "package", 
+      "url": "https://eitdesktoprepo.company.com/api/v3/projects/testbranch?filepath=InstallApplications/v2/fwcld_log_dummy.pkg&private_token=NoTelling", 
+      "version": "1"
+    }, 
+    {
+      "file": "/Library/Application Support/installapplications/2-DEPNotify-1.0.3.pkg",
+      "hash": "d09b878d32418d16d79c0ad4d89bb0d426c2914a6ce1f9238d7b4e98762f9c35",
+      "name": "2-DEPNotify-1.0.3.pkg",
+      "packageid": "menu.nomad.DEPNotify",
+      "type": "package",
+      "url": "https://eitdesktoprepo.company.com/api/v3/projects/testbranch?filepath=InstallApplications/v2/DEPNotify-1.0.3.pkg&private_token=NoTelling",
+      "version": "1.0.3"
+    }
+  ],
+  "userland": [
+    {
+      "file": "/Library/Application Support/installapplications/2-EnergySaverProfile.pkg",
+      "hash": "e9571a0c7ec0681c04da88527f5b796692ed8ec4b2255c0e01174a77d9b06081",
+      "name": "2-EnergySaverProfile.pkg",
+      "packageid": "energysaverprofile",
+      "type": "package",
+      "url": "https://eitdesktoprepo.company.com/api/v3/projects/testbranch?filepath=InstallApplications/v2/EnergySaverProfile.pkg&private_token=NoTelling",
+      "version": "1"
+    },
+    {
+      "file": "/Library/Application Support/installapplications/1-company_logo-1.0.pkg", 
+      "hash": "7be8e0130e984e8b3b216848d4fd69f6b9a90885577af232b07dcc53bda7e8c8", 
+      "name": "1-company_logo-1.0.pkg", 
+      "packageid": "com.company_logo", 
+      "type": "package", 
+      "url": "https://eitdesktoprepo.company.com/api/v3/projects/testbranch?filepath=InstallApplications/v2/company_logo-1.0.pkg&private_token=NoTelling", 
+      "version": "1.0"
+    }, 
+    {
+      "file": "/Library/Application Support/installapplications/3-NoMAD_company_14.pkg",
+      "hash": "a5dac6e6556d65b03aaf96d521476879e16a48f5ee707041f48a874a19eb49a4",
+      "name": "3-NoMAD_company_14.pkg",
+      "packageid": "nomadmatw14",
+      "type": "package",
+      "url": "https://eitdesktoprepo.company.com/api/v3/projects/testbranch?filepath=InstallApplications/v2/NoMAD_company_14.pkg&private_token=NoTelling", 
+      "version": "1"
+    },
+    {
+      "file": "/Library/Application Support/installapplications/5-wait_for_dock.py", 
+      "hash": "75f09bf41395265ae3e5fac4e7ab097fc932a1e6d637b209fb4ef24669aec005", 
+      "name": "5-wait_for_dock.py", 
+      "type": "rootscript", 
+      "url": "https://eitdesktoprepo.company.com/api/v3/projects/testbranch?filepath=InstallApplications/v2/wait_for_dock.py&private_token=NoTelling"
+    },
+    {
+      "file": "/Library/Application Support/installapplications/6-filewave_bootstrap", 
+      "hash": "f1874176fa908da966203d5ef3f57e15c6e90baa334cc0e3478f0feb6877db89", 
+      "name": "6-filewave_bootstrap.py", 
+      "type": "rootscript", 
+      "url": "https://eitdesktoprepo.company.com/api/v3/projects/testbranch?filepath=InstallApplications/v2/filewave_bootstrap&private_token=NoTelling"
+    }
+  ]
+}
