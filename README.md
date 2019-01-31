@@ -44,6 +44,10 @@ role_map.json Defines our company locations, departments and roles chosen from t
 
 com.company.installapplications.plist - LaunchDaemon deployed in InstallApplications
 
+# extras
+
+make sure the permissions on your custom FileWaveClient.pkg are 644 apache apache
+
 
 more documentation to follow 
 
