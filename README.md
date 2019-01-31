@@ -47,6 +47,7 @@ com.company.installapplications.plist - LaunchDaemon deployed in InstallApplicat
 # extras
 
 make sure the permissions on your custom FileWaveClient.pkg are 644 apache apache
+`-rw-r--r--.  1 apache apache    34454 Feb  6  2018 FileWaveClient.pkg`
 
 
 more documentation to follow 
