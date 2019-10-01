@@ -9,7 +9,7 @@
 		<string>/usr/bin/python</string>
 		<string>/Library/Application Support/installapplications/installapplications.py</string>
 		<string>--jsonurl</string>
-		<string>https://eitdesktoprepo.schawk.com/api/v3/projects/testbranch?filepath=InstallApplications/v2/bootstrap.json&private_token=NoTelling</string>
+		<string>https://server.yourco.com/api/v3/projects/testbranch?filepath=InstallApplications/v2/bootstrap.json&private_token=NoTelling</string>
 		<string>--iapath</string>
 		<string>/Library/Application Support/installapplications</string>
 		<string>--laidentifier</string>
