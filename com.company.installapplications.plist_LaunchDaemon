@@ -21,7 +21,7 @@
 		<string>Command: MainText: Welcome to Company co. \n Please wait while your computer downloads all the software for your role.  Please click on the ? located on the right for more information about company sharepoint</string>
 		<string>Command: Image: /usr/local/sbin/company_resources/company_logo.png</string>
 		<!-- <string>Command: NotificationOn:</string> -->
-		<!-- <string>Command: Quit: Thank you for using MATW's Automation Engine. Enjoy your new Mac</string> -->
+		<!-- <string>Command: Quit: Thank you for using YourCO's Automation Engine. Enjoy your new Mac</string> -->
 		<string>Command: Help: https://company.sharepoint.com/sites/companyIntranet</string>
 		<string>Status: Check out company sharepoint while we download your build information…</string>
 
